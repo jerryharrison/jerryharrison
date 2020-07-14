@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi. I'm Jerry. 👋
+
+📫 How to reach me: [https://twitter.com/jerryharrison](twitter.com/jerryharrison)
 
 <!--
 **jerryharrison/jerryharrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
